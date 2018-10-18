@@ -51,7 +51,6 @@ describe('Game', function () {
 
     expect(game.wheel).to.be.an('array');
     expect(domUpdates.displayCategory).to.have.been.called(1);
-    // expect(domUpdates.displayCategory).to.have.been.called.with('Phrase');
   });
 
   it('should give us a value when we spin the wheel', () => {
