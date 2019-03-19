@@ -31,7 +31,4 @@ npm run test
 ```
 ##### Pull Request 
 - For any request please tag me `@Dhanciles` 
-- In your description state which issue the pull request addresses 
-```
-Closes Issue #5 
-```
+- In your description state which issue the pull request addresses `Closes Issue #24`
