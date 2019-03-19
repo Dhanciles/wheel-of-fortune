@@ -181,6 +181,13 @@ main {
   width: 40px;
 }
 
+.selected {
+  height: 40px;
+  width: 40px;
+  background: #88929B; 
+  color: #0b68a9; 
+}
+
 /* Player information  */
 
 .player-area {
